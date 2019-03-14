@@ -16,7 +16,9 @@ git clone https://github.com/roshanadh/battery-notifier
 ```sh
 cd battery-notifier
 ```
-* Copy run-battery-notifier.bat file
+* Make a shortcut of run-script.vbs file
 * Go to run and type shell:startup
-* Paste the run-battery-notifier.bat file in the newly opened window
+* Move the previously created shortcut to the newly opened window
 * Done!
+
+This should run the VBScript everytime Windows boots and now the.vbs file runs the python script in every startup.
