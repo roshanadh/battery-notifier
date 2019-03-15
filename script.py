@@ -2,6 +2,7 @@
 from win10toast import ToastNotifier
 # psutil library for monitoring battery and charge status
 from psutil import sensors_battery
+import time
 
 toaster = ToastNotifier()
 
@@ -25,3 +26,5 @@ while(True):
         isNotifiedLow = False
     elif isPlugged == False:
         isNotifiedHigh = False
+
+    time.sleep(30)
