@@ -21,4 +21,4 @@ cd battery-notifier
 * Move the previously created shortcut to the newly opened window
 * Done!
 
-This should run the VBScript everytime Windows boots and now the.vbs file runs the python script in every startup.
+This should run the VBScript everytime Windows boots and now the .vbs file runs the python script in every startup.
