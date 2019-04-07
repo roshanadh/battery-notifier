@@ -11,13 +11,13 @@ However, you always remember to plug the charger late, and/or forget to unplug t
 To use battery-notifier on your local system,
 
 * Clone the repo
-```sh
-git clone https://github.com/roshanadh/battery-notifier
-```
+  ```sh
+  git clone https://github.com/roshanadh/battery-notifier
+  ```
 * Change your working directory to the cloned repo
-```sh
-cd battery-notifier
-```
+  ```sh
+  cd battery-notifier
+  ```
 * Make a shortcut of run-script.vbs file
 * Go to run and type shell:startup
 * Move the previously created shortcut to the newly opened window
