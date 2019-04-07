@@ -5,7 +5,7 @@ You're a battery-nerd. You like your device's battery percent within the golden 
 
 However, you always remember to plug the charger late, and/or forget to unplug the charger early. What do you do?
 
-(hint: use battery-notifier)
+*(hint: use battery-notifier)*
 
 ## Local
 To use battery-notifier on your local system,
