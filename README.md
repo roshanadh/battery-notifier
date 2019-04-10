@@ -8,7 +8,7 @@ However, you always remember to plug the charger late, and/or forget to unplug t
 *(hint: use battery-notifier)*
 
 ## Local
-To use battery-notifier on your local system,
+To use battery-notifier on your local machine,
 
 * Clone the repo
   ```sh
