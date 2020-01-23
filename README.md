@@ -18,6 +18,11 @@ To use battery-notifier on your local machine,
   ```sh
   cd battery-notifier
   ```
+* Install dependencies
+ ```sh
+  pip install win10toast
+  pip install psutil
+  ```
 * Make a shortcut of run-script.vbs file
 * Go to run and type shell:startup
 * Move the previously created shortcut to the newly opened window
