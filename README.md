@@ -19,7 +19,7 @@ To use battery-notifier on your local machine,
   cd battery-notifier
   ```
 * Install dependencies
- ```sh
+  ```sh
   pip install win10toast
   pip install psutil
   ```
